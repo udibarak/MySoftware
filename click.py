@@ -1,2 +1,2 @@
 def click():
-    print("Click")
+    return print("Click")
